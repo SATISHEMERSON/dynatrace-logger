@@ -1,0 +1,11 @@
+{
+  "name": "dynatrace-logger",
+  "version": "1.0.0",
+  "description": "Emerson PLM Team logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "module"
+  },
+  "author": "SATISHEMERSON",
+  "license": "ISC"
+}
